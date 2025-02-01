@@ -1,0 +1,77 @@
+/* *{
+    background-color: #E96B33;
+}
+
+.top{
+    background-color: black;
+    height: 40px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    left: 0px;
+}
+.bottom{
+    background-color: black;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    width: 40px;
+    left: 0px;
+}
+.left{
+    background-color: black;
+    height: 40px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    left: 0px;
+}
+.right{
+    background-color: black;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    width: 40px;
+    right: 0px;
+}
+.Kagura {
+
+
+position: absolute;
+width: 329px;
+height: 111px;
+left: 170px;
+top: 30px;
+
+font-family: 'Luckiest Guy';
+font-style: normal;
+
+font-size: 64px;
+line-height: 64px;
+
+color: #FFFFFF;
+
+border: none;
+text-shadow: 0px 4px 1px rgba(0, 0, 0, 0.25);
+
+}
+
+.aura{
+position: absolute;
+width: 307px;
+height: 349px;
+background: url(Super-Saiyan-Aura-PNG-Image.png);
+
+} */
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevents scrolling */
+}
+
+.base {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background-color: #E96B33;
+}
